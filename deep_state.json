@@ -1,0 +1,34 @@
+{
+  "flow_comfy": {
+    "checked_at": "2026-04-24 21:33 UTC",
+    "room_type": "Comfy",
+    "hash": "018f9db91b6bcf80",
+    "info": {
+      "not_avail_hits": [
+        "no\\s+rooms?\\s+available\\s+at\\s+the\\s+moment",
+        "no\\s+rooms?\\s+available",
+        "get\\s+notified\\s+when\\s+bookings?\\s+open"
+      ],
+      "strong_avail_hits": [],
+      "likely_available": false
+    },
+    "length": 1081,
+    "sample": "Let's book your room Select your room type Comfy From €590,00 pm Features Fridge Fully furnished Internet connection (own router required) Kitchenette Private bathroom Private room Rent allowance (NL) Study desk & chair Wardrobe Deluxe From €800,00 pm Features Fridge Fully furnished Internet connection (own router required) Kitchenette Private bathroom Private room Rent allowance (NL) Self-contain"
+  },
+  "flow_deluxe": {
+    "checked_at": "2026-04-24 21:33 UTC",
+    "room_type": "Deluxe",
+    "hash": "018f9db91b6bcf80",
+    "info": {
+      "not_avail_hits": [
+        "no\\s+rooms?\\s+available\\s+at\\s+the\\s+moment",
+        "no\\s+rooms?\\s+available",
+        "get\\s+notified\\s+when\\s+bookings?\\s+open"
+      ],
+      "strong_avail_hits": [],
+      "likely_available": false
+    },
+    "length": 1081,
+    "sample": "Let's book your room Select your room type Comfy From €590,00 pm Features Fridge Fully furnished Internet connection (own router required) Kitchenette Private bathroom Private room Rent allowance (NL) Study desk & chair Wardrobe Deluxe From €800,00 pm Features Fridge Fully furnished Internet connection (own router required) Kitchenette Private bathroom Private room Rent allowance (NL) Self-contain"
+  }
+}
