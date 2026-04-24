@@ -1,0 +1,43 @@
+{
+  "booking_short_stay": {
+    "checked_at": "2026-04-24 18:43 UTC",
+    "hash": "07e964138d26f648",
+    "url": "https://www.xior-booking.com/space/6122/lutherse-burgwal-short-stay",
+    "label": "Booking engine — Lutherse Burgwal (short stay)",
+    "info": {
+      "in_queue": false,
+      "available_hits": [
+        "\\bbook\\s*now\\b"
+      ],
+      "unavailable_hits": [],
+      "room_counts": [],
+      "prices": [
+        "50.00",
+        "195.00",
+        "17.50",
+        "12.50",
+        "70.00",
+        "50.00",
+        "1,000.00",
+        "75.00",
+        "100.00",
+        "590"
+      ],
+      "non_zero_prices": [
+        "50.00",
+        "195.00",
+        "17.50",
+        "12.50",
+        "70.00",
+        "50.00",
+        "1,000.00",
+        "75.00",
+        "100.00",
+        "590"
+      ],
+      "likely_available": true
+    },
+    "length": 5145,
+    "status": 200
+  }
+}
