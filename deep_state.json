@@ -1,1 +1,26 @@
-{}
+{
+  "flow_comfy": {
+    "checked_at": "2026-04-24 20:51 UTC",
+    "room_type": "Comfy",
+    "hash": "51096c3c6bb7c742",
+    "info": {
+      "not_avail_hits": [],
+      "avail_hits": [],
+      "likely_available": false
+    },
+    "length": 4000,
+    "sample": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-W4HNS735\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> Safe study environment Comfortable student life Built for connection Investors Careers Our Locations Our Locations Our Locations Our Locations Summer bookings Book summer student accommodation with Xior. Flexible short-term stays, all-inclusive living and gre"
+  },
+  "flow_deluxe": {
+    "checked_at": "2026-04-24 20:51 UTC",
+    "room_type": "Deluxe",
+    "hash": "51096c3c6bb7c742",
+    "info": {
+      "not_avail_hits": [],
+      "avail_hits": [],
+      "likely_available": false
+    },
+    "length": 4000,
+    "sample": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-W4HNS735\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe> Safe study environment Comfortable student life Built for connection Investors Careers Our Locations Our Locations Our Locations Our Locations Summer bookings Book summer student accommodation with Xior. Flexible short-term stays, all-inclusive living and gre"
+  }
+}
