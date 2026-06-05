@@ -1,4 +1,4 @@
 {
-  "count": 1,
+  "count": 2,
   "last_error": "lutherse_burgwal: ReadTimeout: HTTPSConnectionPool(host='www.xiorstudenthousing.eu', port=443): Read timed out. (read timeout=30); the_hague_city: ReadTimeout: HTTPSConnectionPool(host='www.xiorstudenthousing.eu', port=443): Read timed out. (read timeout=30)"
 }
