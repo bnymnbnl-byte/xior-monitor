@@ -1,7 +1,7 @@
 {
   "lutherse_burgwal": {
-    "checked_at": "2026-06-11 12:59 UTC",
-    "hash": "b09c25875b501de0",
+    "checked_at": "2026-06-11 16:57 UTC",
+    "hash": "8455a1149a6de440",
     "url": "https://www.xiorstudenthousing.eu/netherlands/the-hague/lutherse-burgwal-student-accommodation/",
     "label": "Lutherse Burgwal — property page",
     "signals": {
@@ -11,11 +11,11 @@
       "unavailable_hits": [],
       "high_priority": true
     },
-    "length": 44274
+    "length": 44481
   },
   "the_hague_city": {
-    "checked_at": "2026-06-11 12:59 UTC",
-    "hash": "82c7ec55ac623cd8",
+    "checked_at": "2026-06-11 16:57 UTC",
+    "hash": "8774bb683864cb66",
     "url": "https://www.xiorstudenthousing.eu/netherlands/the-hague/",
     "label": "Xior The Hague — city overview",
     "signals": {
